@@ -1,0 +1,6 @@
+{
+  "name": "ForgeOps 1.16.5 — Control de Servidor Minecraft",
+  "description": "Plataforma integral para administrar, optimizar y desplegar servidores Minecraft Java Forge 1.16.5 con mods, backups automáticos, Docker y telemetría en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
